@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.card img {
+  height: 250px;
+  object-fit: cover;
+}
